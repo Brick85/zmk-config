@@ -1,0 +1,13 @@
+file_format: "1"
+id: qily60
+name: Qily60
+type: shield
+url: https://github.com/kata0510/Lily58
+requires: [pro_micro]
+exposes: [i2c_oled]
+features:
+  - keys
+  - display
+siblings:
+  - qily60_left
+  - qily60_right
